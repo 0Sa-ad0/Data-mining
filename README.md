@@ -1,4 +1,4 @@
-# Data-mining
+# DATA MINING 
 
 # Diabetes Prediction Using Medical Metrics
 
