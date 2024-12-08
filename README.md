@@ -41,6 +41,14 @@ This project aims to predict the likelihood of diabetes based on various medical
 - **Python**: The project was developed using Python, utilizing libraries like Pandas, NumPy, and Scikit-Learn.
 - **Scikit-Learn**: Used for implementing the Naive Bayes classifier and evaluating the model.
 
+## Evaluation Metrics
+
+- **Accuracy**: The model achieved an accuracy of **78%** on the test set.
+
+- **Confusion Matrix**:
+  ```plaintext
+  [[124  19]
+   [ 32  56]]
 ## How to Run
  Clone this repository:
  ```bash
